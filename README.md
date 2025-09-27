@@ -16,7 +16,7 @@
 
 ```javascript
 const ashiii = {
-    pronouns: "she/her",
+    pronouns: "he/him",
     code: ["JavaScript", "Python", "Java", "C++"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
