@@ -128,19 +128,7 @@ const ashiii = {
 
 ---
 
-## 🎨 Fun Zone
 
-<div align="center">
-
-### 🐍 Watch my contributions get eaten by the snake!
-<img src="https://raw.githubusercontent.com/ashiii2121/ashiii2121/output/snake.svg" alt="Snake animation" />
-
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem-ashiii2121.vercel.app/api/spotify)](https://open.spotify.com/user/ashiii2121)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
